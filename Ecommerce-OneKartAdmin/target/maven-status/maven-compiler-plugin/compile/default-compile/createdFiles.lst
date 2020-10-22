@@ -1,0 +1,5 @@
+com\practice\hibernet\hibernet01\GenericCrudOperations.class
+com\practice\hibernet\hibernet01\UnitTests.class
+com\practice\hibernet\hibernet01\MyApp.class
+com\practice\hibernet\hibernet01\entity\Category.class
+com\practice\hibernet\hibernet01\entity\Product.class
